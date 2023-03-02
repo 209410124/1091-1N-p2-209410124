@@ -1,0 +1,27 @@
+# 1112-1N-js-demo-id
+
+### W03-P6: add your info as reviews[0] and show it
+
+![w03-p6.png](https://hsexmvemzjlqjqnfwwob.supabase.co/storage/v1/object/public/demo-24/md_1N_img/w03-p6.PNG)
+
+### W03-P1: modify w2_xx.md to fetch images from supabase
+
+![w03-p1.png](https://hsexmvemzjlqjqnfwwob.supabase.co/storage/v1/object/public/demo-24/md_1N_img/w03-p1.PNG)
+
+```
+
+```
+
+### W03-P2: show reviews[0] info when DOM is loaded
+
+![w03-p2.png](https://hsexmvemzjlqjqnfwwob.supabase.co/storage/v1/object/public/demo-24/md_1N_img/w03-p2.PNG)
+
+### W03-P3: implement next button and show the sequence in console.log
+
+![w03-p3.png](https://hsexmvemzjlqjqnfwwob.supabase.co/storage/v1/object/public/demo-24/md_1N_img/w03_p3.PNG)
+
+### W03-P4: implement prev button and show the sequence in console.log
+
+### W03-P5: implement "suprise me" button and show the sequence in console.log
+
+![w03-p5.png](https://hsexmvemzjlqjqnfwwob.supabase.co/storage/v1/object/public/demo-24/md_1N_img/w03_p5.PNG)
